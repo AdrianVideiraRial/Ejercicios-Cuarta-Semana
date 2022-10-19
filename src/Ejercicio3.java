@@ -7,6 +7,7 @@ public class Ejercicio3 {
         */
 
         //Pedimos al usuario que escriba uno de estos productos.
+
         Scanner dato = new Scanner(System.in);
         String producto = "";
 

@@ -13,6 +13,7 @@ public class Ejercicio5 {
         Scanner frase = new Scanner(System.in);
         String texto = "";
 
+
         System.out.println("Escriba una frase para analizar");
         texto= frase.nextLine();
 

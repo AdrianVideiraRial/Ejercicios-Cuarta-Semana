@@ -14,6 +14,7 @@ public class Ejercicio2 {
         System.out.println("Introduzca una palabra");
         palabra=entrada.next();
 
+
         //Creamos la condicion.
         if (palabra.contains("b")){
             System.out.println("La palabra contiene la letra b");

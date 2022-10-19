@@ -20,6 +20,7 @@ public class Ejercicio4 {
 
        // Solicitamos datos según figura geométrica.
 
+
         switch (producto) {
             case "Triangulo":
                 Scanner Triangulo = new Scanner(System.in);

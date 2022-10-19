@@ -12,6 +12,7 @@ public class Ejercicio1 {
         System.out.println("Introduzca un valro numérico");
         valor1=entrada.nextFloat();
 
+
         //Introducimos nuestra condición con IF ELSE.
         if (valor1<=10) {
             System.out.println("El numero introducido es igual o menor a 10");

@@ -6,6 +6,7 @@ public class Ejercicio6 {
         impar y lo muestre por pantalla.
        */
 
+
         Scanner numero = new Scanner(System.in);
         System.out.println("Escriba un numero entero");
 

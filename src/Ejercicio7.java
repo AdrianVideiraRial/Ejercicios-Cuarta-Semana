@@ -9,6 +9,7 @@ public class Ejercicio7 {
         Pista: Las cadenas de texto tienen la propiedad .length que devuelve el tamaño.
         */
 
+
         Scanner memoria = new Scanner(System.in);
         String cadena = "";
 
